@@ -5,3 +5,9 @@ git add<file>
 git commit -m
 git log --oneline
 git diff
+git reset --hard  (Tải lại file đã xoá ở máy)
+
+*Nộp bài tập:
+- git add .
+- git commit -m"Bai tap 1"
+- git push origin master
