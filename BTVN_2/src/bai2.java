@@ -1,4 +1,5 @@
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 /*
@@ -38,7 +39,7 @@ public class bai2 {
                 max = a[i];
             }
         }
-        System.out.println("Max = "+max);
+        System.out.println("Max = " + max);
     }
     
     public static void Min(int a[], int n){
@@ -48,7 +49,7 @@ public class bai2 {
                 min = a[i];
             }
         }
-        System.out.println("Min = "+min);
+        System.out.println("Min = " + min);
     }
     
     public static void Sapxep(int a[], int n){
