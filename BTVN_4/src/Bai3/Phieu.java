@@ -13,7 +13,7 @@ import java.util.Scanner;
  */
 public class Phieu {
     private String maPhieu;
-    private Hang x[];
+    private Hang[] x;
     private int n;
 
     public Phieu() {

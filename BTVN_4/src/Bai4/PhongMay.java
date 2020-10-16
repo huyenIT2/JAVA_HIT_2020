@@ -16,7 +16,7 @@ public class PhongMay {
     private String tenPhong;
     private float dienTich;
     private QuanLy x;
-    private May y[];
+    private May[] y;
     private int n;
 
     public PhongMay() {
